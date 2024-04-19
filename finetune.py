@@ -310,7 +310,7 @@ if __name__ == "__main__":
         '-o', '--output-dir',
         help='Output directory',
         type=Path,
-        default=Path("./output")
+        default=Path("./eval_output")
     )
     parser.add_argument(
         '-m', '--model-name',
