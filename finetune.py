@@ -90,19 +90,30 @@ def model_init():
     return model
 
 def compute_metrics(eval_pred):
+    '''    
+    Compute performance metrics based on binary classification assumptions, calculating
+    accuracy, precision, recall, and f1-score from the model's predictions.
+
+    Parameter:
+        - eval_pred (tuple): A tuple containing a numpy array of the model logits, 
+        predictions, and a numpy array of the true labels, labels.
+
+    Returns:
+        - dict: A dictionary containing the rounded values of accuracy, precision, recall, f1.
+
+    '''
     metric1 = load_metric("precision")
     metric2 = load_metric("recall")
     metric3 = load_metric("f1")
-    # metric4 = load_metric("accuracy")
 
     predictions, labels = eval_pred
     logits = predictions[0]
     predictions = np.argmax(logits, axis=1)
 
+    accuracy = np.mean(predictions == labels)
     precision = metric1.compute(predictions=predictions, references=labels)["precision"]
     recall = metric2.compute(predictions=predictions, references=labels)["recall"]
     f1 = metric3.compute(predictions=predictions, references=labels)["f1"]
-    accuracy = np.mean(predictions == labels)  
 
     return {
         "accuracy": round(accuracy, 6), 
@@ -146,7 +157,6 @@ def main(args):
     count_per_lang = args.max
     max_input_length = 350
 
-
     ### Load data and split into train, validation, test following 80%/10%/10%
     eng_data, fre_data = load_data(args.input_dir, count_per_lang)
     # Split off the test + validation dataset (20%)
@@ -182,6 +192,8 @@ def main(args):
     global model_name
     model_name = args.model_name
     print(f'\nUSING PRETRAINED MODEL: {model_name}\n')
+
+    # Tokenize both datasets
     tokenizer = AutoTokenizer.from_pretrained(model_name, cache_dir=f'{local_dir}/models')
     tokenized_eng_dataset = eng_data.map(
         lambda review: tokenize_text(review, max_input_length, tokenizer), 
@@ -199,6 +211,7 @@ def main(args):
     combined_validation = concatenate_datasets(
         [tokenized_eng_dataset['validation'], tokenized_fre_dataset['validation']]).select_columns(['input_ids', 'labels'])
     
+
     data_collator = DataCollatorWithPadding(
         tokenizer, padding="max_length", max_length=max_input_length
     )
@@ -225,7 +238,6 @@ def main(args):
         # report_to="tensorboard"
     )
 
-
     evaluation_result, trainer = train_model(
         model_name,
         tokenizer, 
@@ -237,6 +249,8 @@ def main(args):
 
     save_to_file(args.output_dir, f'{model_name}_{args.max}_evaluation_result.out', evaluation_result)
 
+
+    # Predict test datasets when script has --test-set 
     if args.test_set:
         print(f'************************************\n\tTesting ...\n************************************')
         eng_test_result = trainer.predict(test_dataset=tokenized_eng_dataset['test'].select_columns(['input_ids', 'labels']))
@@ -259,8 +273,6 @@ def save_to_file(output_dir, file_name, content):
     '''
     # Create output directory if it doesn't exist
     os.makedirs(output_dir, exist_ok=True)
-    
-    # Define the complete path of the file
     file_path = os.path.join(output_dir, file_name)
     
     # Open the file in write mode and save the content
@@ -269,34 +281,6 @@ def save_to_file(output_dir, file_name, content):
     print('---------------------------------------')
     print(f"File saved successfully at {file_path}")
     
-
-# def test(model_dir, max_input_length):
-#     '''
-#     python3 main.py --test --test-model-dir ./models/t5-small_moviereview_analysis/checkpoint-2000
-#     '''
-
-#     tokenizer = AutoTokenizer.from_pretrained(model_dir)
-#     model = AutoModelForSequenceClassification.from_pretrained(model_dir)   
-
-#     text = """
-#     Three words: "Cool Hand Luke." Same film, done better, done earlier.
-#     For that matter, is this film any better than other Steven King "novelettes"
-#     such as "Stand By Me"? All in all, it probably ranks a 6 or a 7,
-#     but since people on this site have lost their minds as regards this
-#     film, I give it a 1 in one man's attempt at sanity.
-#     """
-
-#     inputs = [text]
-
-#     inputs = tokenizer(inputs, max_length=max_input_length, truncation=True, return_tensors="pt")
-#     with torch.no_grad():
-#         outputs = model(**inputs)
-#         predictions = outputs.logits
-#     probabilities = torch.nn.functional.softmax(predictions, dim=-1)
-#     predicted_class_id = probabilities.argmax(dim=-1).item()
-#     print(predicted_class_id)
-
-
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -329,16 +313,6 @@ if __name__ == "__main__":
         action="store_true",
         help="A flag whether evaluate on the test dataset."
     )
-    # parser.add_argument(
-    #     '--test', 
-    #     action="store_true",
-    #     help="Run test() method."
-    # )
-    # parser.add_argument(
-    #     '--test-model-dir',
-    #     type=str,
-    #     help='The model directory for testing (eg. "./models/t5-small_moviereview_analysis/checkpoint-2000")'
-    # )
 
     args = parser.parse_args()
     main(args)
