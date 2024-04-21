@@ -1,0 +1,22 @@
+{
+    "English": {
+        "test_loss": 0.15627411007881165,
+        "test_accuracy": 0.958,
+        "test_precision": 0.960317,
+        "test_recall": 0.956522,
+        "test_f1": 0.958416,
+        "test_runtime": 27.6375,
+        "test_samples_per_second": 36.183,
+        "test_steps_per_second": 4.523
+    },
+    "French": {
+        "test_loss": 0.23477911949157715,
+        "test_accuracy": 0.928,
+        "test_precision": 0.925403,
+        "test_recall": 0.92915,
+        "test_f1": 0.927273,
+        "test_runtime": 27.6272,
+        "test_samples_per_second": 36.196,
+        "test_steps_per_second": 4.525
+    }
+}
