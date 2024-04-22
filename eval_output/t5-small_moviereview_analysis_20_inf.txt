@@ -1,0 +1,202 @@
+[
+    {
+        "review": "From all the bad comments about this movie and add them up I feel the same way. It may look like the Australians are weaklings instead they were brave soldiers. In this film it was very terrible and too graphic. I didn't see enough heroism just more cowardice which is ashame because its nothing from what I read. We don't need the extremity of violence like that we can use our vivid imagination of what they went through. It's like saving private ryan where the nazi is pushing his knife slowly in the soldier. For example Mel Gibson is a over extreme director for his movies not because of the violence but for the level of historical inaccuracy. Letters of Iwo Jima was one of the war films that was close enough to history (although I could be wrong) except Flags of our Fathers and Bridge of the River Kwai. You're better off reading it its an insult to the victims and the fallen if you don't tell it right, and the movie drag on for too long there was nothing interesting about the dialogue and not enough retribution from the aussies to kill Japanese soldiers. Just read history on the internet, mags and in books. Movies always kill the sense of realization. What they did to POWs in Singapore and the Philippines was just dreadful escpically to civilians. It just makes me feel proud to see goodies beat the baddies but movies like this ruin it.",
+        "actual": 0,
+        "predict": 0
+    },
+    {
+        "review": "Driving Lessons From the writer of the critically acclaimed films, Mrs. Brown and Charlotte Gray, Jeremy Brock brings a touching heartfelt dramedy starring Academy Award Nominees Julie Walters and Laura Linney and from the Harry Potter series, Rupert Grint. The beautiful portrait tells the story of Ben Marshall, (Rupert Grint) a seventeen year old boy being held captive in the heart of his religiously neurotic mother Laura (Laura Linney). After his school year ends he decides to take a job with a clever, free-spirited, and \"heavy on the bottle\" retired actress, Evie Walton (Julie Walters). The pair embarks upon wonderful adventures from camping to walks around the block to the simple conversations about life. Challenging the domineering mother, as well as each other along the way, the two develop a beautiful bond that revolutionizes both their lives.<br /><br />The comedic elements are flawless and precise especially coming from the British veteran, Julie Walters. Brock uses his unique style to create an infamous and loving nature that first time directors could only dream. Directing comes naturally to Brock as he builds up stunning imagery that breaks the surfaces and plunges the viewer down into an overabundance of adoration and creation. Even the subtle score by unknown composers Clive Carroll and John Renbourn accentuate the tone and manner Brock had no trouble in generating.<br /><br />Laura Linney is always making her mark in films as she does as \"Laura.\" The bossy and overbearing mother is at times unbearable and with Linney at the helm of it we are engulfed into that persona. The complexity of her character couldn't have been more flawlessly portrayed by anyone else. Rupert Grint breaks away from \"Ron Weasley\" and tries on someone new. His performance is more responsive than loquacious but Grint gives us someone brand new to a child performance and the viewer gets to enjoy it. But the standout is coming from Oscar nominated actress Julie Walters who gives \"Evie\" a life of her own. Despite the role being clearly a leading one, Walters fairs better in the supporting category where I believe she can simply take home the prize. \"Evie\" is a mix of \"Clementine Kruczynski\" and \"Mrs. Laura Henderson\" with her free spirit and lovable persona. Hopefully her role will not go unnoticed this awards season.<br /><br />Driving Lessons isn't an \"out of this world\" experience but a fine, enjoyable one that any viewer could just kick back and learn a little something about life, love, and friendship coming in the forms of the most beautiful colors and sizes.<br /><br />Grade: ***/****",
+        "actual": 1,
+        "predict": 1
+    },
+    {
+        "review": "This has to be one of the most beautiful, moving, thought provoking films around. It's good family entertainment and at the same time makes you think very hard about the issues involved. Every time I see the \"ghost of Zac riding the bike through the puddle at the end I can't help but cry my eyes out. John Thaw's performance is so touching and it is a shame he is no longer with us. Gone but not forgotten. A outstanding film. Full marks.",
+        "actual": 1,
+        "predict": 1
+    },
+    {
+        "review": "This P.of S. was highly recommended to me by two friends that have great<br /><br />(similar to mine) taste in films and have seen more than anyone I know.<br /><br />I have no idea what they saw in this movie. Sadistic,cruel and repulsive is fine in an entertaining movie,but this is a windbag effort trying to pass itself off as highbrow lowbrow movie making.Or is it lowbrow highbrow?<br /><br />The ancient generation gap cliché \"no redeeming social value\" comes to mind. Bill Pullman is trying,maybe a little to hard,and except for the kid the rest of the acting seems self-conscious and kinda lame.<br /><br />Save yourself from this and watch a double feature of \"In Cold Blood\" and \"The Hitcher\".<br /><br />As somebody said, this would never have been made if Jennifer Lynch was not the overrated David Lynch's daughter.",
+        "actual": 0,
+        "predict": 0
+    },
+    {
+        "review": "The Night Listener is probably not one of William's best roles, but he makes a very interesting character in a somewhat odd but very different movie. I can guarantee you that you have never seen this kind of movie before. Some people maybe won't like the slow pacing of this movie, but I think it's the great plus of the movie. It is definitely one of the top movies that have come out the year 2006. It has a intriguing performance in a movie with a great content, dramatic feeling. This is no americanized movie. Neither is it a predictable movie. You just feel that it is a movie that has secrets which you have a hard time to determine what the outcome of it may be. This is no excellent movie that has everything, but hell, it's a damn good and very original movie.",
+        "actual": 1,
+        "predict": 1
+    },
+    {
+        "review": "Never even knew this movie existed until I found an old VHS copy of it, hidden deep in my dusty horror closet. The title on the box said \"Insect\" and the illustrations on the back made clear that it is just another insignificant and poorly produced 80's horror movie. They can surely be fun, of course, as long as don't expect an intelligent scenario and as long as you're not irritated by seeing a giant amount of cheesy make-up effects. Just about every important aspect that makes a horror movie worthy viewing is substandard here in \"Blue Monkey\"! The plot is ridiculous and highly unoriginal, the acting performances are painful to observe and there's a total lack of suspense. Following the always-popular trend of \"big-bug\" movies, \"Blue Monkey\" handles about a new and unknown insect species that wipes out the doctors and patients of a remote hospital. The makers couldn't be more evasive about the actual origin of this gigantically over-sized critter! All we know is that it's not from outer space and it initially crawled out of a tropical plant. Other than this, there's absolutely no explanation for where this new type of insect all of a sudden comes from! Like I said, don't get your hopes up for an intelligent screenplay. The first half of the film is entertaining enough, with some nice gore and the introduction of a couple deranged characters (an 80-year-old blind and alcoholic lady!) but the second half (when the entire hospital is put to quarantine) is dreadfully boring. It is also near the end that \"Blue Monkey\" begins to exaggeratedly rip-off older (and better) films. Approaching the climax, they apparently ran out of budget as well, since the lighting becomes very poor and the guy in the monster suit isn't very well camouflaged anymore. \"Blue Monkey\" is worth a peek in case you're really bored or if you really want to see every 80's horror movie ever made. Fans of B-cinema may recognize John Vernon (\"Killer Klowns from Outer Space\", \"Curtains\") in the small and meaningless role of Roger, who's in charge of the clinic.",
+        "actual": 0,
+        "predict": 0
+    },
+    {
+        "review": "Zero Day is a film few people have gotten to see, and what a shame that is.<br /><br />When I saw the end, where the two main characters descend upon the room and mercilessly kill people, then commit suicide, and it made me grab my stomach. I was shaking, that's how strong this movie is.<br /><br />The movie is amazing. It's too incredible not to get a perfect ten. It's sad that so few people understand the true beauty of this film. It is not a budget which makes a film good, it is the amount of feeling the makers put into it which makes it good.<br /><br />It leaves a permanent impression in your mind that you simply cannot get out. It makes you realise the true horror of shootings- especially if you were to know that person, and this movie makes you feel like you know these people.<br /><br />I recommend Zero Hour to those who feel they are mature enough to watch it. I am fourteen, and I feel that this film is just too amazing to be put into words. It feels like you're watching something that actually happened.",
+        "actual": 1,
+        "predict": 1
+    },
+    {
+        "review": "YOU BELONG TO ME (1941) is a example of the 'ScrewBall Comedy' which started in the mid 1930s and ended postwar (WWII). Some of these films maintained their status. Others have earned undeserved praise when originally were critical and box office flops. Like BRINGING UP BABY (1938) or MR. & MRS. SMITH (1941). Then there is this one which value just keeps sinking.<br /><br />Why can be rooted in the screenplay/story. It strains credibility from the get go, betraying a superior cast. BARBARA STANWYCK is married to millionaire HENRY FONDA who is insanely jealous. He would be content to sit back with his million$ and love her, she wishes to maintain her profession as a Doctor. She wants him to become in what her eyes is a useful member of society. This conflict is supposed to amuse us. It cannot be salvaged by either the principals or the supporting cast.<br /><br />The faults in this scenario can clearly be laid at the feet of DALTON TRUMBO. HENRY FONDAs' character is written in such broad strokes that any viewer has a instant dislike for him. BARBARA STANWYCK just has nothing to do but react to each idiotic situation of jealousy. TRUMBO must have been spending to much time outside the studio being a \"useful idiot\" then being on the job. COLUMBIA obviously did not get their moneys worth from him, maybe ROBERT RISKIN should taken over.",
+        "actual": 0,
+        "predict": 0
+    },
+    {
+        "review": "This Columbo is unique in that we don't really know the exact outcome until the very end. Our favorite dark horse detective suspects a pair of identical twin brothers of killing their rich uncle; each points the finger at his brother. In a mystery series in which the crime is shown at the beginning of the drama, this twist could reasonably be used only once or twice, and this was Columbo's time. Other than that wrinkle, this episode fits in well with others of the series. It has a lighter tone than some, with a very funny performance by Jeanette Nolan as the fastidious and loyal housekeeper who takes an instant dislike to Columbo.",
+        "actual": 1,
+        "predict": 1
+    },
+    {
+        "review": "This is probably the most boring, worse and useless film I have seen last year. The plot that was meant to have some philosophical aspects emerged to me as a very bad hollow copy of the matrix, with plenty of clichés: the lone wolf cop, good looking, psychologically disturbed, sleeping with his gun... + nice hard worker and shy, but good looking she-scientist, you add a 2 cent plot and you have I, Robot! I was terribly disturbed by the obvious advertising of brands like FedEx,Audi,converse etc. This movie stinks the commercialization and tend to be more a poor ad spot that unfortunately will not end after 30 sec. I wouldn't recommend this to my worse enemy, if you have some spare time, watch a good TV program instead or better read a nice book.",
+        "actual": 0,
+        "predict": 0
+    },
+    {
+        "review": "Brilliant acting, excellent plot, wonderful special effects! This is what I would say about this movie if I had been watching it with a bag of diarreha on my head for the entire film. Instead, I endured a 2 hour crap-o-rama. Our \"brilliant\" story begins with some billionare who has nothing better to do than look in volcanoes in a vain attempt to find his lucky charms. Instead, he finds a 5'4\" man in a cheesy rubber dinosaur suit and some queer cave-folk.<br /><br />In his infinite wisdom, (along with his infinitely large nose)he decides to go inside this volcano with a team of \"special\" people. To travel to this underground land, they go by plane? No. Boat? No. They use this giant soup can with a \"solid metal\" drill on the end that I swear I saw wobble. In summation, this movie was faker than....Oh that's right! This was the fakest movie I've seen! For those of you who haven't seen it and are thinking of sitting down on a Sunday afternoon with this wonderful movie; I warn you! If you watch this movie you should be prepared to cut of any shred of your manhood and give yourself a full frontal lobotomy.<br /><br />ECCCHHH!! The rating system only allows for a minimum of 1/10. I give this a -10/10!",
+        "actual": 0,
+        "predict": 1
+    },
+    {
+        "review": "Put the film down and back slowly away. The acting rivals a highschool play, the plot is treadworn, and the production values are slightly higher than community theater. The goofs are so plentiful that it becomes a laugher. Rooms are switched around, the dead move, dogs are used for wolves, men shot point blank with .45 caliber pistols are able to walk and ride snowmobiles, blouses button and unbutton without human touch... this is a baaaaaaaaaddddddd movie. I nearly passed out when I saw the average rating. There is no accounting for taste. BTW, there is no nudity.",
+        "actual": 0,
+        "predict": 1
+    },
+    {
+        "review": "Walt Disney's CINDERELLA takes a story everybody's familiar with and embellishes it with humor and suspense, while retaining the tale's essential charm. Disney's artists provide the film with an appealing storybook look that emanates delectable fairy tale atmosphere. It is beautifully, if conventionally, animated; the highlight being the captivating scene where the Fairy Godmother transforms a pumpkin into a majestic coach and Cinderella's rags to a gorgeous gown. Mack David, Al Hoffman, and Jerry Livingston provide lovely songs like \"A Dream Is a Wish Your Heart Makes\" and \"Bibbidi-Bobbidi-Boo\" that enhance both the scenario and the characters.<br /><br />Even though CINDERELLA's story is predictable, it provides such thrilling melodrama that one shares the concerns and anxieties of the titular heroine and her animal friends. Both the wicked stepmother and her dreadful cat Lucifer present a formidable menace that threatens the dreams and aspirations of Cinderella and the mice. It is this menace that provides the story with a strong conflict that holds the viewers' interest. The film's suspense, however, is nicely balanced by a serene sweetness, especially in the musical numbers. It is in these segments that reveal the appealing personalities of Cinderella and her friends, moving the viewers to care for them. Overall, Walt Disney's CINDERELLA is wonderful family entertainment that has held up remarkably well after half a century.",
+        "actual": 1,
+        "predict": 1
+    },
+    {
+        "review": "E. Elias Merhige's existentialist experiment in the enduring is definitely one hell of a boring watch. This is like something Alexander de Large was forced to watch in \"A Clockwork Orange.\" But, despite just how unwatchable this film really is, it is a success.<br /><br />If you are reading this and have not already seen the film, then it is too late. For me, at least, the payoff (after 3 separate viewings with lots of break in between mind you) was seeing the list of characters *after* the story was told. That's when the simple message hit home. But i wonder if Merhige could have told a 5 minutes story in about 30, instead of 78.<br /><br />However, seeing as how the cast of credits is displayed prominently on the front page for this movie, the cat is already out of the bag and you surely will only appreciate this film if you appreciate existentialist film making from the early 20th century. Even then, you might puke.<br /><br />4/10 (but i commend Merhige for crafted a piece of art, even if it is unwatchable)",
+        "actual": 1,
+        "predict": 0
+    },
+    {
+        "review": "When I think of a 1970s-period film, this is not what I think of. I don't want a monotonous, one-song Robin Trower soundtrack; I want a soundtrack punctuated with the top-40 bubblegum songs of the day that epitomized the '70s. The generic karaoke-style disco music during the prom scene was especially annoying. The acting (if you can call it that) was very wooden, and seemed just read from script in monotone. The film quality and camera work was horrid; the dialog murky, the script seemed thrown together without much thought and the plot was thin if not nonexistent. I can't believe people are giving it the high ratings I've read here. Basically a forgettable, poor attempt at recreating a beloved era of the past. Two stars is all I can come up with. Sorry, guys.",
+        "actual": 0,
+        "predict": 0
+    },
+    {
+        "review": "Although there is very little plot and whatever exists is just all improvisational, still it was a good start from a new director with no previous financial back up and also a smart move from Andy Warhol to make his cimematic productions more marketable and viewer-friendly. In any case this story of a street hustler relies too much on showing Joe buck naked (almost all the time!). And the creative use of a flashy editing really wears off after the hundredth time and the cutting off the dialog thing gets really annoying half-way. This would have been a much more entertaining or even dramatic if they made a documentary of the daily of an actual male prostitute or hustler, instead of letting the actors make up some nonesensical plot and dialog of their own.",
+        "actual": 0,
+        "predict": 1
+    },
+    {
+        "review": "Hammer House of Horror: Witching Time is set in rural England on Woodstock farm where stressed musician David Winter (Jon Finch) lives with his actress wife Mary (Prunella Gee) & is currently composing the music for a horror film. One night while looking for his dog Billy David finds a mysterious woman in his barn, calling herself Lucinda Jessop (Patricia Quinn) she claims to be a witch who has transported herself from 300 years in the past to now. Obviously rather sceptical David has a hard time believing her so he locks her in a room in his farmhouse & calls his doctor Charles (Ian McCulloch) to come examine her, however once he arrives & they enter the room Lucinda has disappeared. Charles puts it down to David drinking too much but over the next few day strange & disturbing things begin to happen to David & Mary...<br /><br />Witching Time was episode 1 from the short lived British anthology horror series produced by Hammer studios for TV & originally aired here in the UK during September 1980, the first of two Hammer House of Horror episodes to be directed by Don Leaver (episode 13 The Mark of Satan being the other) I actually rather liked this. As a series Hammer House of Horror dealt with various different themes & were all unconnected to each other except in name & unsurprisingly Watching Time is a sinister & effective little tale about a witch, the script by Anthony Read benefits from it's slight 50 odd minute duration & moves along at a nice pace. The character's are pretty good as is the dialogue, there are some nice scenes here & I liked the way it never quite reveals whether David & Mary are going crazy or not. I think it's a well structured, entertaining & reasonably creepy horror themed TV show that I enjoyed more than I thought I would.<br /><br />Being made for British TV meant the boys at Hammer had a lower budget than usual, if that was even possible, & as such there is no gorgeous period settings here as in their most well know Frankenstein & Dracula films although the contemporary English setting does give it a certain atmosphere that you can relate to a bit more. Another TV based restriction is that the exploitation levels are lower than you might hope for, there's some nudity & gore but not much although I didn't mind too much as the story here is pretty good. It's well made for what it is & Hammer's experience on their feature films probably helped make these look pretty good, the acting is good as well with genre favourite Ian McCulloch making a bit-part appearance.<br /><br />Witching Time is a good start to the Hammer House of Horror series, as a 50 minute piece of British TV it's pretty damned good, now why don't they make show's like this over here anymore?",
+        "actual": 1,
+        "predict": 0
+    },
+    {
+        "review": "I made the mistake of buying this since I collect comic book inspired movies. Even at 6$ it was too expensive. I thought there might be some campy fun in it, a \"so bad\" it becomes good vibe perhaps, I was wrong. I had watched it once long ago and didn't remember any of it. Now I know why. I was bored out of my mind and was looking for distractions to do something else. I'm all for grrrrl power, punk attitude and absurd humor but Tank Girl does not work on any front. The script is bad, you don't care about the characters and the humor is mostly lame except for a few amusing one-liners. The special effects or locations are poor or often replaced by comic panels or animations that are just too jarring compared to the live-action. It's like they didn't have the money to shoot the cool stuff and so resorted to drawings, however cool they might be (an uncensored animated feature would be way better for Tank Girl now that I think about it). The action scenes were cheesy but not in a fun b-movie way. The tank itself was far from impressive or dynamic although it was interestingly decorated. As a matter of fact, the best action scenes involving the tank were in animation. <br /><br />It does have some interesting songs by known artists such as Bjork, Hole and Portishead but instead of improving the atmosphere, they just don't fit most of the time. Once they even break into a ludicrous song and dance number that was just senseless and horrible. I think that's when I totally tuned out. I suppose Tank Girl, played by Lori Petty, looks the trashy punkette part but beyond her \"attitude\" and sometimes barely amusing retorts, is more two-dimensional and superficial than the worst comic book characters. Jet, played by Naomi Watts, is probably the only saving grace of the film and it's amazing how such a good actress was involved in this mess. Malcolm McDowell wasn't too bad playing his usual villain role. It might be a cult movie for some but please consider that it's really different from the original independent comics and the original creators were disappointed with the movie themselves (check out the entry for Tank Girl on Wikipedia). <br /><br />Rating: 3 out of 10",
+        "actual": 0,
+        "predict": 0
+    },
+    {
+        "review": "This is an extraordinary topical thriller. Fonda and Douglas are good, but Lemmon blows them away. He plays a man who must go against everything he thought was right. Bridges paces the film very well with a lot of tension. The last of the seventies expose films.",
+        "actual": 1,
+        "predict": 1
+    },
+    {
+        "review": "Eglimata (= Crimes) is a story about little crimes everyday people commit that in a crazy scenario could lead to the absolute disaster.One of the smartest Greek series ever!Actors like Ketty Konstadinou and Maria Kavogianni showed a whole new dimension of themselves and talent and gave us moments of incredible 'guilty' laughing.Every viewer seemed to recognise the bad side of their self in one of the characters or at least a side of their self they wish they had. Actors of every age that played bigger and smaller parts gained an equally big space in Greek audience's heart.My personal favourites (apart the first two i mentioned)are Vassilis Haralambopoulos, Athinodoros Prousalis and Stavros Nikolaidis but so many amazing actors passed by some episodes from time to time. Whoever around the world understands Greek should find a way to watch this series,even though it's been more than 5 years that it was on TV.In Greece they keep repeating the series (ANT1) in every chance there is like summertime or early afternoon zones.We'll never forget Eglimata or any of the casting crew!",
+        "actual": 1,
+        "predict": 1
+    },
+    {
+        "review": "Production Besson «nienne », Pierre Morel à la réalisation tombé par accident au commande de cette production. Besson dans sa grande générosité lui fait lire le scénario et lui propose en baptême du feu de le réaliser… Une nuit de réflexion, une question qui le taraude, une blague en guise de réponse de Besson et voilà comment un directeur de photographie se retrouve jeté dans le monde du cinéma… « Jeté » car après avoir réalisé une merde comme ça, il va falloir ramer pour refaire surface ! Film prophétique ou pas, Morel se refuse à cataloguer son projet de « film de banlieue » et même s’il le décrit plutôt comme un film politique-fiction en pensant que « (…) le devenir de ces banlieues pourraient ressembler à ceci dans quelques années si personne ne fait rien » m’a beaucoup amusé car réussir à justifier de l’intérêt de son film et de son improbable scénario comme future ligne directrice d’un combat politique n’est qu’une connerie de plus dans la longue liste des absurdités de « réalisateurs et acteurs» ! Je m’emporte et m’éloigne du sujet quoique peu intéressant tant il n’y a rien à garder dans cet imbroglio scénaristique. Le jeu est mauvais, débile et d’une simplicité déconcertante mêlant le gentil flic (Cyril Raffaelli) prêt à se dévouer corps et âmes pour la justice et la tolérance (c’est beau…) et son compère naïf (David Belle) dans sa quête de vengeance face à un méchant désabusé interprété par Bibi Naceri. Outre des cascades impressionnantes réalisées sans trucage ne rappelant que le désastreux « Yamakasi », parcours urbain auquel David Belle a donné naissance, il n’y a rien à sauver de ce film ou \"essai\" pour Pierre MOREL. Passer votre chemin…",
+        "actual": 0,
+        "predict": 0
+    },
+    {
+        "review": "Voila je suis allé voir le film familial de la fin d'année 2014. J'ai tout dit non? J'ai même pas vraiment envie d'en faire une critique tellement ça ne m'a rien fait. Bon déjà je ne connaissais pas l'ours Paddington donc le film n'a pas pu faire vibrer ma fibre nostalgique. Et il n'a pas fait vibrer grand chose d'autre... C'est un film familial donc on a un truc bien gentil, avec la petite famille bourgeoise de Londres, la maman artiste, le papa qui est cadre, la jeune ado rebelle, le garçon doué en science, la famille vivant dans une petite maison sur 3 étages avec un max de déco. Franchement? Comment je peux avoir envie de défendre un tel film? Le film est un cliché ambulant sur Londres, la famille, la différence, les étrangers. Je veux bien que le film ne soit pas un drame social, mais si tu n'as rien à dire, ne prétend pas le faire ! Mais bon là je chipote. Le vrai défaut c'est quoi alors? Et ben c'est que le film n'est même pas drôle... Pour moi tout d'abord, mais surtout pour les enfant,s puisque les rires étaient bien peu présents, ou alors juste pendant les séquences un peu crades (c'est dire le niveau). Sympa hein? Je passe sur le scénario qui peut prétendre détrôner le Hobbit au nombre des Deus Ex Machina (le tremblement de terre du début??). On sent que tout a été mis sur les effets spéciaux, au demeurant magnifiques mais cela ne suffit pas et ne suffira jamais... Les enfants ne passeront pas forcément un mauvais moment, mais ne verrons pas le plus beau dessin animé de leur vie non plus...",
+        "actual": 0,
+        "predict": 0
+    },
+    {
+        "review": "Il est peu probable que le nom du réalisateur John Bonito évoque quelque chose aux amateurs de cinéma mais c'est lui qui avait mis en scène la star du catch John Cena dans la franchise de la WWE The marine. Avec Carjacked, il se lance dans un projet un poil plus ambitieux avec un quasi huis-clos dans une voiture malheureusement la route en compagnie de Maria Bello & Stephen Dorff paraît bien longue. Si l'histoire se tient à peu près, les personnages sont tout sauf crédibles et on pense essentiellement à Lorraine dont la maladresse est difficile à avaler. Manque d'action et de surprises, ça parle beaucoup pour pas grand chose bref un film … qui ne tient carrément pas la route !",
+        "actual": 0,
+        "predict": 0
+    },
+    {
+        "review": "Ben Affleck offre un très bon rôle à son frére Casey dans cette histoire assez sombre d'un enlèvement d'une fille que tout le monde aimé. Avec une très bonne réalisation et un très bon scénario; Ben donne l'impression de maitriser le sujet. Pour un coup d'essai, le résultat est plutôt prometteur mêmesi Ben n'égale pas Clint Eastwood. Car ce film se base sur le livre du même écrivain que MysticRiver. Mais si Ben continue comme ça il sera le nouveau Clint eastwood",
+        "actual": 1,
+        "predict": 1
+    },
+    {
+        "review": "Ce film est un mélange d'action (pour les acrobaties) et d'humour. Je l'ai vraiment beaucoup aimé.",
+        "actual": 1,
+        "predict": 1
+    },
+    {
+        "review": "Un film d'un réalisme très touchant. Les acteurs sont formidables et criants de vérité.",
+        "actual": 1,
+        "predict": 1
+    },
+    {
+        "review": "Nuleeeeeeeeeeeeeeeeeh",
+        "actual": 0,
+        "predict": 1
+    },
+    {
+        "review": "Un super film, c’est à la fois trop marrant et dramatique. Barbara Streisand aux commandes pour cette splendide œuvre sur le judaïsme. Très intéressant. Je le déconseille aux moins de 7 ans. 4/5",
+        "actual": 1,
+        "predict": 1
+    },
+    {
+        "review": "En tant que réalisateur, Nicholas Stoller poursuit son sans faute dans le monde de la comédie romantique régressive américaine. Il a signé depuis \"Sans Sarah rien ne va\", les meilleures productions Apatow (surclassant même le patron). Crétinerie assumée, sens des situations absurdes (souvent hilarantes) et intelligence du propos, voilà les habituels ingrédients des films de ce jeune réalisateur qui décidément ne cesse de me surprendre.",
+        "actual": 1,
+        "predict": 1
+    },
+    {
+        "review": "Excellent film sur fond historique. Tres bons acteurs. Scenario presque parfait. Juste la scene de guerre qui est un peu surrealiste.",
+        "actual": 1,
+        "predict": 1
+    },
+    {
+        "review": "Un très beau documentaire sur des gamins qui sont nés et qui grandissent dans le bordel de Calcutta, entourés de mères prostituées, de pères absents ou accros au hash, et qui n'ont pas droit à l'éducation. Et puis un jour, une photographe débarque dans leur ruelle sordide, et leur fait découvrir l'art de la photo, le plaisir du cadrage bien fait, des seconds plans, des couleurs ... Leurs photos feront le tour du monde ! Le plus incroyable dans ce film, c'est le déalage entre l'horreur quotidienne de ces gosses et leurs sourires, leur vivacité. Leur escapade au bord de la mer parait cruelle tant le retour dans les ruelles glauques du bordel semble injuste. Un grand bravo à Zana Briski pour son action auprès de ces enfants perdus, sans elle les filles auraient fini comme leur mère, sur le trottoir. Ils s'appellent Avijid, Shanti, Manik, Puja, Gaur, Sushitra, Kochi, Mamoni, Tapasi, et leur vie est bouleversante !",
+        "actual": 1,
+        "predict": 1
+    },
+    {
+        "review": "Un film redoutablement efficace. Pas besoin de gros budget et d'effets spéciaux à outrance pour nous faire frémir.",
+        "actual": 1,
+        "predict": 1
+    },
+    {
+        "review": "Malgré l'ami Clint en forme et un excellent Ed Harris, cela reste une œuvre mineure dans la filmographie d'Eastwood. La faute à un scénario tiré par les cheveux et aussi sans doute à un Gene Hackman peu crédible en président des U.S.A., qui ne semble pas vraiment lui-même y croire. Ça traine en longueur pour déboucher sur un final plutôt décevant.",
+        "actual": 0,
+        "predict": 1
+    },
+    {
+        "review": "L'histoire d'amour en Hollande entre Eric, un sculpteur bohème et sans lois et Olga, jeune femme qu'il rencontre en auto-stop et issue d'une famille conservatrice... La passion amoureuse et sexuelle, l'addiction à l'autre, l'amour destructeur ou encore la vie en couple, c'est une relation tumultueuse sous le signe de la libération et l'émancipation sexuelle que Paul Verhoeven met en scène pour son second film. Provocateur, cru, subversif et sans concessions, le hollandais violent met en avant cette belle mais chaotique histoire d'amour, teinté d'une certaine mélancolie. C'est à travers le portrait de ces deux jeunes hollandais que Verhoeven passionne et notamment Eric, qui voit en Olga la perfection, il en fait sa muse et lui donne tout son amour. Il décrit Eric comme un artiste anticonformiste, provocateur, charismatique et dont le sexe occupe une place très importante dans sa vie face à une Olga qui va découvrir le monde d'Eric et sortir de sa vie aisée et bourgeoise. Et Verhoeven retranscrit très bien toute cette passion, allant de beaux moments lyriques à l'amour destructeur en passant par la consommation de cet amour. \"Turkish Delight\" représente aussi le tableau d'une société hollandaise qui évolue, où la vie bohème et la libération sexuelle représentée par Eric sont opposé à la vie bourgeoise et traditionnel de la famille d'Olga et notamment de sa mère. Très bien écrit et sans oublier l'humour, \"Turkish Delight\" bascule peu à peu vers le drame où l'amour fou ne survit pas à la vie de couple et au temps qui passe. Verhoeven nous offre un cocktail d'émotion avant de voir, avec mélancolie, les changements de la vie et du temps. Et enfin \"Turkish Delight\" repose aussi sur son talentueux duo de comédiens et notamment Rutger Hauer où son charisme crève déjà l'écran. Dès ce second film Verhoeven pose les bases de son cinéma et livre une histoire d'amour non conventionnelle sur fond de libération sexuelle dans une société hollandaise en évolution.",
+        "actual": 1,
+        "predict": 1
+    },
+    {
+        "review": "mouais pas terrible étant un fan de tous ce qui est en rapport avec le Titanic et ses sisters-ships le Britannic et l'Olympic , je me jette toujours sur les films qui touchent ce sujet : ce téléfilm nous parle d'un paquebot ( le Titanic 2 ) qui se prend un iceberg a cause d'un tsunami tous ça 100 ans après le véritable tragique naufrage du Titanic et résultat : des acteurs pas terrible du tout , des effets spéciaux pas crédibles sauf à la limite lorsque l'on de voir le paquebot sous l'eau et enfin une histoire d'amour nulle bref pas loin d'être un navet mais tout de même regardable .",
+        "actual": 0,
+        "predict": 0
+    },
+    {
+        "review": "Je n'arrive vraiment pas à trouver un point poitif à ce film sans aucune originalité!Alors là... le néant total. Un film qui se croit drôle, trop prétentieux, et qui remet sur le tapis une série de gags de situations vus et revus. La prestation des acteurs est sérieusement à désirer, Emmanuel Mouret devrait faire un choix entre la réalisation et le jeu d'acteur (ou bien arrêter les deux?), car en plus il occupe le rôle principal (c'est pas prétentieux?), et il l'interprète très très mal: il a aucun oeil et joue vraiment faux! Quant à Judith Godrèche et ses sourires niais, c'est même pas la peine d'en parler... Déborah François est pas mauvaise (mais a un rôle moindre) tout comme Frédérique Bel. Mais bon, çà sauve en rien le film qui est des plus nuls que j'ai vu dans le registre \"comique\".",
+        "actual": 0,
+        "predict": 0
+    },
+    {
+        "review": "C'est long, très long ! On s'ennuie ! Reste le décor, le paysage des montagnes... Et trop de cigarettes !",
+        "actual": 0,
+        "predict": 1
+    },
+    {
+        "review": "Mélange de film mi-fantastique, mi-politique. Sorte de thriller avec magie à la clé, donc totalement non crédible : c'est une fiction non réaliste. Reste le côte fantastique où un individu essaie de se réincarner dans un enfant. Si on accepte ce procédé, le film se suit sans trop d'ennui, mais aussi sans surprise, puisque tout est possible, même le n'importe quoi. Conclusion : pas terrible.",
+        "actual": 0,
+        "predict": 1
+    },
+    {
+        "review": "La version petit beur de \" LA liste de schindler \".",
+        "actual": 0,
+        "predict": 1
+    },
+    {
+        "review": "Le Château de l’araignée prouve deux choses : Le talent exceptionnel du réalisateur Akira Kurosawa et l’universalité de l’œuvre de William Shakespeare. Macbeth s’active dans le Japon féodal comme s’il y était né. Le personnage de Lady Macbeth prend encore plus de dimension dans le souffle du théâtre nô comme si cela venait mettre en exergue sa relation avec le diable. Les deux comédiens qui incarnent le couple maudit permettent à la production d’atteindre le niveau tragique que commande originalement la pièce. Elle tout en retenue et en profondeur, lui d’une intensité démesurée. Même s’il nous est plus difficile de juger la justesse de leur interprétation, la frénésie soutenue dans leur jeu, les décors épurés et la prise de vue géométrique propre au cinéma japonais viennent souligner l’aspect rituel de leurs actions et le caractère fabuleux de l’histoire. La photographie est magnifique et puissante. Le brouillard naturel qui sévissait pendant les extérieurs, et qui rendait la tâche particulièrement difficile à l’équipe de tournage, crée au final un climat empreint de mystère très approprié. Les séquences équestres, l’ambiance sonore, les scènes à grand déploiement tout en sobriété, il n’y a rien qui fait défaut. Il se dégage beaucoup de poésie de la violence souterraine que recèle l’univers shakespearien et l’œuvre de Kurosawa l’exprime de manière sublime. Au milieu XVIe siècle on hésitait entre croire aux prophéties ou forcer le destin. Cinq cents ans plus tard, on remercie le ciel pour la rencontre Shakespeare-Kurosawa.",
+        "actual": 1,
+        "predict": 1
+    }
+]
