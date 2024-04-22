@@ -6,7 +6,7 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import numpy as np
 import torch
 
-local_dir = '/h/u7/c0/01/yuxiaoq4/24CSC413/project'
+local_dir = 'TOBECHANGED'
 
 def label_to_number(example):
     ''' Convert 'positive' to 1, 'negative' to 0. '''
